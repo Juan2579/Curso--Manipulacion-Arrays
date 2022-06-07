@@ -1,0 +1,14 @@
+{
+  "name": "curso-manipulacion-arrays",
+  "version": "1.0.0",
+  "description": "Curso de Manipulacion de Arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Gualdron",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
